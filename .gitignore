@@ -1,0 +1,12 @@
+*.hex
+*.bin
+*.elf
+*.o
+*.d
+.vscode/
+*.code-workspace
+.DS_Store
+Thumbs.db
+desktop.ini
+*.bak
+*.tmp
